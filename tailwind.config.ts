@@ -9,8 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        darkSlate: '#181818',  
+        pinky: '#ff477e',
+        hara:'#033888',
+        lightText:'#eee',
       },
     },
   },
